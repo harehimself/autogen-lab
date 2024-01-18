@@ -1,4 +1,4 @@
-![Banner](https://github.com/harehimself/hare_langchain-lab/blob/a8cc9c23c65c339a964aa3b692f3c339a5ea05ff/Hare_Langchain-Lab.png)
+![Banner](https://github.com/harehimself/hare_autogen-lab/blob/db0867584b69c49fe8ae31e66e6e6d5197e56b49/Hare_AutoGen-Lab.png)
 > Evaluating the capabilities of LangChain: a framework designed to simplify the creation of applications using large language models.
 
 [![Contributors](https://img.shields.io/github/contributors/yourusername/reponame)](https://github.com/yourusername/reponame/graphs/contributors)
