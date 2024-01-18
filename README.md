@@ -1,5 +1,5 @@
 ![Banner](https://github.com/harehimself/hare_autogen-lab/blob/db0867584b69c49fe8ae31e66e6e6d5197e56b49/Hare_AutoGen-Lab.png)
-> Evaluating the capabilities of LangChain: a framework designed to simplify the creation of applications using large language models.
+> Evaluating the capabilities of Microsoft's AutoGen: a multi-agent conversation framework.
 
 [![Contributors](https://img.shields.io/github/contributors/yourusername/reponame)](https://github.com/yourusername/reponame/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/yourusername/reponame)](https://github.com/yourusername/reponame/network/members)
