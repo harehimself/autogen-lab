@@ -1,0 +1,1 @@
+# hare_autogen-lab
