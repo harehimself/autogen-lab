@@ -1,4 +1,4 @@
-![Banner](https://github.com/harehimself/hare_autogen-lab/blob/db0867584b69c49fe8ae31e66e6e6d5197e56b49/Hare_AutoGen-Lab.png)
+![Banner](https://raw.githubusercontent.com/harehimself/autogen-lab/master/Hare_AutoGen-Lab.png)
 > Evaluating the capabilities of Microsoft's AutoGen: a multi-agent conversation framework.
 
 [![Contributors](https://img.shields.io/github/contributors/yourusername/reponame)](https://github.com/yourusername/reponame/graphs/contributors)
