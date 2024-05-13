@@ -27,24 +27,6 @@
 <br><br>
 
 
-
-
-
-
-
-
-
-
-
-![Banner]()
-> Evaluating the capabilities of Microsoft's AutoGen: a multi-agent conversation framework.
-
-[![Contributors](https://img.shields.io/github/contributors/yourusername/reponame)](https://github.com/yourusername/reponame/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/yourusername/reponame)](https://github.com/yourusername/reponame/network/members)
-[![Stars](https://img.shields.io/github/stars/yourusername/reponame)](https://github.com/yourusername/reponame/stargazers)
-[![Issues](https://img.shields.io/github/issues/yourusername/reponame)](https://github.com/yourusername/reponame/issues)
-[![MIT License](https://img.shields.io/github/license/yourusername/reponame)](https://github.com/yourusername/reponame/blob/main/LICENSE)
-
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
