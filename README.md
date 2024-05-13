@@ -1,58 +1,61 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/harehimself/autogen-lab/master/Hare_AutoGen-Lab.png" alt="Hare AutoGen Lab">
+   <img src="https://raw.githubusercontent.com/harehimself/hare_nextjs-webflow/master/Hare_Nextjs-Webflow-Starter.png" alt="Hare Next.js and Webflow Starter">
 </p>
 
 <p align="center">
-   Evaluating the capabilities of Microsoft's <b><a href="https://www.openai.com">AutoGen</a></b>: a multi-agent conversation framework. AutoGen represents a promising step towards more sustained, contextual, and engaging multi-agent dialogue systems. With further refinements to the core language models and training frameworks, such systems could have a wide range of applications for virtual assistants, storytelling, education, and beyond.
-
-</p>
-<p align="center">
-   Whether you're a developer, researcher, or simply curious about AI, this repository provides a valuable resource for learning, experimenting, and building innovative applications powered by Microsoft's advanced AI models. Contributions, issues, and pull requests are welcome as we collectively explore the frontiers of artificial intelligence.
+   A reusable app starter that combines Next.js &amp; Webflow's Devlink. This starter provides a foundation for building modern web applications with a seamless integration between Next.js and Webflow, allowing developers to leverage the best of performance and visual design.
 </p>
 <br>
 
 <p align="center">
-  <a href="https://github.com/harehimself/autogen-lab/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/harehimself/autogen-lab" alt="Contributors"></a>
-  <a href="https://github.com/harehimself/autogen-lab/network/members">
-    <img src="https://img.shields.io/github/forks/harehimself/autogen-lab" alt="Forks"></a>
-  <a href="https://github.com/harehimself/autogen-lab/stargazers">
-    <img src="https://img.shields.io/github/stars/harehimself/autogen-lab" alt="Stars"></a>
-  <a href="https://github.com/harehimself/autogen-lab/issues">
-    <img src="https://img.shields.io/github/issues/harehimself/autogen-lab" alt="Issues"></a>
-  <a href="https://github.com/harehimself/autogen-lab/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/harehimself/autogen-lab" alt="MIT License"></a>
+  <a href="https://github.com/harehimself/hare_nextjs-webflow/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/harehimself/hare_nextjs-webflow" alt="Contributors"></a>
+  <a href="https://github.com/harehimself/hare_nextjs-webflow/network/members">
+    <img src="https://img.shields.io/github/forks/harehimself/hare_nextjs-webflow" alt="Forks"></a>
+  <a href="https://github.com/harehimself/hare_nextjs-webflow/stargazers">
+    <img src="https://img.shields.io/github/stars/harehimself/hare_nextjs-webflow" alt="Stars"></a>
+  <a href="https://github.com/harehimself/hare_nextjs-webflow/issues">
+    <img src="https://img.shields.io/github/issues/harehimself/hare_nextjs-webflow" alt="Issues"></a>
+  <a href="https://github.com/harehimself/hare_nextjs-webflow/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/harehimself/hare_nextjs-webflow" alt="MIT License"></a>
 </p>
 
 <br><br>
 
-
 ## Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Benefits](#features)
+- [How It Compares](#features)
 - [License](#license)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
-- [Project Status](#project-status)
-- [Screenshots](#screenshots)
-- [Feedback](#feedback)
-- [FAQ](#faq)
-- [Roadmap](#roadmap)
-- [Support](#support)
+
+
+<br>
 
 ## Features
-<details>
-<summary>View Features 👇</summary>
+- Powerful combination of Next.js and Webflow technologies.
+- Next.js for blazing-fast, SEO-friendly websites with server-side rendering.
+- Webflow for stunning, intuitive UI design.
+- Enables seamless developer-designer collaboration.
 
-    - 🚀 Feature 1
-    - 💡 Feature 2
-    - 🌐 Feature 3
+<br>
 
-</details>
+## Benefits
+- Addresses modern web development challenges.
+- Next.js improves performance and SEO with server-side rendering.
+- Webflow empowers designers with visual UI creation.
+- Streamlines development, reduces time-to-market, ensures seamless user experience.
 
+<br>
 
-## Getting Started
-<details>
-<summary>Installation and Setup Instructions 👇</summary>
+## How It Compares
+- Advantages over traditional web development approaches.
+- Next.js enables faster load times and better SEO.
+- Eliminates complex build processes and deployment setups.
+- Fosters better developer-designer collaboration.
+- Empowers teams to deliver high-quality web applications efficiently.
+
+<br>
+
+## License
+Released under the permissive MIT License. Allows free use, modification, and distribution.
