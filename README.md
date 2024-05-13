@@ -12,16 +12,16 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/harehimself/openai-lab/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/harehimself/openai-lab" alt="Contributors"></a>
-  <a href="https://github.com/harehimself/openai-lab/network/members">
-    <img src="https://img.shields.io/github/forks/harehimself/openai-lab" alt="Forks"></a>
-  <a href="https://github.com/harehimself/openai-lab/stargazers">
-    <img src="https://img.shields.io/github/stars/harehimself/openai-lab" alt="Stars"></a>
-  <a href="https://github.com/harehimself/openai-lab/issues">
-    <img src="https://img.shields.io/github/issues/harehimself/openai-lab" alt="Issues"></a>
-  <a href="https://github.com/harehimself/openai-lab/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/harehimself/openai-lab" alt="MIT License"></a>
+  <a href="https://github.com/harehimself/autogen-lab/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/harehimself/autogen-lab" alt="Contributors"></a>
+  <a href="https://github.com/harehimself/autogen-lab/network/members">
+    <img src="https://img.shields.io/github/forks/harehimself/autogen-lab" alt="Forks"></a>
+  <a href="https://github.com/harehimself/autogen-lab/stargazers">
+    <img src="https://img.shields.io/github/stars/harehimself/autogen-lab" alt="Stars"></a>
+  <a href="https://github.com/harehimself/autogen-lab/issues">
+    <img src="https://img.shields.io/github/issues/harehimself/autogen-lab" alt="Issues"></a>
+  <a href="https://github.com/harehimself/autogen-lab/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/harehimself/autogen-lab" alt="MIT License"></a>
 </p>
 
 <br><br>
