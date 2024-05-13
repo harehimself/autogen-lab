@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   *[AutoGen](https://microsoft.github.io/autogen)* is a powerful code generation tool developed by Microsoft to streamline the development process and enhance productivity. It leverages advanced machine learning algorithms to analyze existing codebases and automatically generate boilerplate code, reducing the need for manual coding and minimizing errors. AutoGen seamlessly integrates with popular development environments, making it easy to incorporate into existing workflows. With its intuitive interface and customizable settings, AutoGen empowers developers to focus on core logic and accelerate project delivery.
+   <a href="https://microsoft.github.io/autogen"><strong>AutoGen</strong></a> is a powerful code generation tool developed by Microsoft to streamline the development process and enhance productivity. It leverages advanced machine learning algorithms to analyze existing codebases and automatically generate boilerplate code, reducing the need for manual coding and minimizing errors. AutoGen seamlessly integrates with popular development environments, making it easy to incorporate into existing workflows. With its intuitive interface and customizable settings, AutoGen empowers developers to focus on core logic and accelerate project delivery.
 </p>
 <br>
 
