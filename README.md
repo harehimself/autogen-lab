@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/harehimself/autogen-lab/master/Hare_AutoGen-Lab.png">
+   <img src="https://raw.githubusercontent.com/harehimself/autogen-lab/master/autogen-lab.png">
 </p>
 
 <p align="center">
@@ -25,10 +25,12 @@
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Features](#features)
-- [Benefits](#features)
-- [How It Compares](#features)
+- [Benefits](#benefits)
+- [How It Compares](#how-it-compares)
 - [License](#license)
-<br>
+
+
+
 
 ## Features
 - Intelligent code generation based on existing codebase patterns and best practices
